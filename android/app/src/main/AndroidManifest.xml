@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lotteryevent">
+    package="com.prodias2.game">
    <application
-        android:label="lotteryevent"
+        android:label="Amber Game"
         android:name="${applicationName}"
         android:icon="@mipmap/icon">
         <activity
